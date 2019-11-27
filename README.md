@@ -11,5 +11,5 @@
 * [Iteration] Contains iterations I made for the models.
 * [STL] Contains .STL geometry files for the newest iteration.
 * [G-CODE] Contains the .GCODE and .FORM file for 3D printers.
-   * .GCODE is for Raise 3D Drremel Ideamaker.
+   * .GCODE is for Raise 3D Dremel Ideamaker.
    * .FORM is for FORM2 Resin Printer.
