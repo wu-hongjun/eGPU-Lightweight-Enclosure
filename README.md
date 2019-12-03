@@ -1,4 +1,4 @@
-# Razer-Core-Case
+# eGPU Lightweight Enclosure
 ### Introduction
 * Razer core X is all good, except one thing: It is so freakin heavy (6.48 kg / 14.29 lbs without GPU I mean WTF).
 * The heaviest part of the entire eGPU is the exterior case, which is nothing but a piece of metal.
